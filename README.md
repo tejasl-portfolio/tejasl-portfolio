@@ -131,4 +131,4 @@ The common thread: less time spent re-running the same analysis by hand, more ti
 
 **LinkedIn:** [linkedin.com/in/tejas-l](https://www.linkedin.com/in/tejas-l/)
 **Email:** [050tejasl@gmail.com](mailto:050tejasl@gmail.com)
-**Resume:** coming soon
+**Resume:** [Download CV (PDF)](CV.pdf)
